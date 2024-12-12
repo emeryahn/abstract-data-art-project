@@ -18,8 +18,7 @@ The dataset was AI generated
 <img width="820" alt="Screenshot 2024-12-12 at 11 46 05 AM" src="https://github.com/user-attachments/assets/b3cf4af4-62e7-40dc-9b04-4fb79b5d365a" />
 
 ## Video Demo
-
-
+<img width="495" alt="Screenshot 2024-12-12 at 11 58 18 AM" src="https://github.com/user-attachments/assets/52cdb7f1-65fa-4049-8401-621b69ebf459" />
 ([youtube-URL-here](https://drive.google.com/file/d/1PMo7QhOZvA5CiSyDGBVUU3PDDq9VGM4D/view?usp=sharing))
 
 ## Description
