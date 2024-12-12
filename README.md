@@ -15,15 +15,12 @@ The dataset was AI generated
 
 
 ## UML Diagram
-
-
-
-
+<img width="820" alt="Screenshot 2024-12-12 at 11 46 05 AM" src="https://github.com/user-attachments/assets/b3cf4af4-62e7-40dc-9b04-4fb79b5d365a" />
 
 ## Video Demo
 
 
-(youtube-URL-here)
+([youtube-URL-here](https://drive.google.com/file/d/1PMo7QhOZvA5CiSyDGBVUU3PDDq9VGM4D/view?usp=sharing))
 
 ## Description
 
